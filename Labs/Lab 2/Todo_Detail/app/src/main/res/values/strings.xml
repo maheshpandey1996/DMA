@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Todo_Detail</string>
+    <string name="next">Next</string>
+    <string name="textview">TextView</string>
+    <string name="previous">Previous</string>
+    <string name="details_here">Details Here</string>
+    <string name="checkbox">CheckBox</string>
+
+    <string-array name="todos">
+        <item>Wake up</item>
+        <item>Drink</item>
+        <item>Eat</item>
+        <item>Internet</item>
+        <item>Sleep</item>
+    </string-array>
+
+    <string-array name="todo_description">
+        <item>Wake up at 4</item>
+        <item>Drink Water</item>
+        <item>Eat Food</item>
+        <item>Internet:  Watch Sacred Game Season 2</item>
+        <item>Sleep never</item>
+    </string-array>
+
+</resources>
